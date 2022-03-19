@@ -2,3 +2,7 @@ Hi This Is AjantharajaH
 
 First read python files
 neural network
+
+apple 
+Orange
+PinApple
